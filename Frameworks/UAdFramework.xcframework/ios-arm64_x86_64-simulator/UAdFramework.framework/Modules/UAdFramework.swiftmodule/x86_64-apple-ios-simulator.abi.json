@@ -1,0 +1,71 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "UAdFramework"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TestHelper",
+        "printedName": "TestHelper",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "sendLog",
+            "printedName": "sendLog()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:12UAdFramework10TestHelperC7sendLogyyF",
+            "mangledName": "$s12UAdFramework10TestHelperC7sendLogyyF",
+            "moduleName": "UAdFramework",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:12UAdFramework10TestHelperC",
+        "mangledName": "$s12UAdFramework10TestHelperC",
+        "moduleName": "UAdFramework",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/adforus_m1\/app\/ios\/uad_ios_sdk\/UAdFramework\/TestHelper.swift",
+      "kind": "StringLiteral",
+      "offset": 189,
+      "length": 48,
+      "value": "\"test-jennet : my first framework!! it is work!\""
+    }
+  ]
+}

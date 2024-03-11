@@ -1,0 +1,22 @@
+{
+  "name": "UAdFramework",
+  "version": "0.1.0",
+  "summary": "A short description of UAdFramework.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/SungEunAdforus/UAdFramework",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "SungEunAdforus": "jennet@adforus.co.kr"
+  },
+  "source": {
+    "git": "https://github.com/SungEunAdforus/UAdFramework.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "UAdFramework/Classes/**/*"
+}

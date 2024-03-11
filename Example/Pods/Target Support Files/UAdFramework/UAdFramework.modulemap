@@ -1,0 +1,6 @@
+framework module UAdFramework {
+  umbrella header "UAdFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,13 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/adforus_m1/Library/Developer/Xcode/DerivedData/UAdFramework-gagtoylockaypwfcgpevcilrraui/Build/Intermediates.noindex/ArchiveIntermediates/UAdFramework/InstallationBuildProductsLocation/Library/Frameworks/UAdFramework.framework/UAdFramework'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x59227, size: 0x8, addend: 0x0, symName: _UAdFrameworkVersionString, symObjAddr: 0x0, symBinAddr: 0x193C00, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x5925C, size: 0x8, addend: 0x0, symName: _UAdFrameworkVersionNumber, symObjAddr: 0x38, symBinAddr: 0x193C38, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x59299, size: 0x8, addend: 0x0, symName: '_$s12UAdFramework10TestHelperC7sendLogyyF', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0x6C, offset: 0x592DE, size: 0x8, addend: 0x0, symName: '_$s12UAdFramework10TestHelperC7sendLogyyF', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x80 }
+  - { offsetInCU: 0xEB, offset: 0x5935D, size: 0x8, addend: 0x0, symName: '_$s12UAdFramework10TestHelperCfd', symObjAddr: 0xC0, symBinAddr: 0x40C0, symSize: 0x8 }
+  - { offsetInCU: 0x11A, offset: 0x5938C, size: 0x8, addend: 0x0, symName: '_$s12UAdFramework10TestHelperCfD', symObjAddr: 0xC8, symBinAddr: 0x40C8, symSize: 0x10 }
+  - { offsetInCU: 0x14A, offset: 0x593BC, size: 0x8, addend: 0x0, symName: ___swift_instantiateConcreteTypeFromMangledName, symObjAddr: 0x80, symBinAddr: 0x4080, symSize: 0x40 }
+  - { offsetInCU: 0x15E, offset: 0x593D0, size: 0x8, addend: 0x0, symName: '_$s12UAdFramework10TestHelperCMa', symObjAddr: 0xD8, symBinAddr: 0x40D8, symSize: 0x20 }
+...

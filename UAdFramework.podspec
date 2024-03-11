@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'UAdFramework'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of UAdFramework.'
+  s.summary          = 'UAdFramework Test'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,17 +21,17 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/SungEunAdforus/UAdFramework'
+  s.homepage         = 'https://github.com/SungEunAdforus/UAd_iOS'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = { :type => '' }  # 라이선스 관련 항목 제거
   s.author           = { 'SungEunAdforus' => 'jennet@adforus.co.kr' }
-  s.source           = { :git => 'https://github.com/SungEunAdforus/UAdFramework.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/SungEunAdforus/UAd_iOS.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
-
-  s.source_files = 'UAdFramework/Classes/**/*'
+  s.ios.deployment_target = '12.0'
+  s.swift_version = '5.9'
   
+  s.source_files = 'UAdFramework/Classes/**/*'
   # s.resource_bundles = {
   #   'UAdFramework' => ['UAdFramework/Assets/*.png']
   # }

@@ -1,0 +1,16 @@
+PODS:
+  - UAdFramework (0.1.0)
+
+DEPENDENCIES:
+  - UAdFramework (from `../`)
+
+EXTERNAL SOURCES:
+  UAdFramework:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UAdFramework: 56b31b313be6569d7c8795dba28eafdcd3d09926
+
+PODFILE CHECKSUM: d46da5b9b65c3d444df7e51027c4b592f96490c4
+
+COCOAPODS: 1.15.2
